@@ -10,8 +10,7 @@
 
 - 🎓 Currently pursuing **Bachelor of Science in Computer Science (BSCS)**
 - 💡 Interested in **full-stack development**, **mobile apps**, and **system design**
-- 🔨 Building real-world projects using **PHP**, **JavaScript**, and **Flutter**
-- 🌱 Always learning — currently exploring **REST APIs** and **mobile UI/UX**
+- 🌱 Always learning and growing through hands-on projects
 - 📍 Based in **Zamboanga, Philippines**
 
 ---
