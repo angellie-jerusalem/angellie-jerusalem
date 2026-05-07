@@ -62,14 +62,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angellie-jerusalem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellie-jerusalem&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 📬 Connect With Me
 
@@ -77,8 +69,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angellie-jerusalem&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
-
-<p align="center"><i>Open to collaborations, internships, and new opportunities. Let's build something great! 🚀</i></p>
