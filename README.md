@@ -11,7 +11,7 @@
 - 🎓 Currently pursuing **Bachelor of Science in Computer Science (BSCS)**
 - 💡 Interested in **full-stack development**, **mobile apps**, and **system design**
 - 🌱 Always learning and growing through hands-on projects
-- 📍 Based in **Zamboanga, Philippines**
+- 📍 Based in **Misamis Occidental, Philippines**
 
 ---
 
